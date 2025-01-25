@@ -1,4 +1,4 @@
-👋 Hello, I'm Yasmim Rodrigues
+👋 Hello, I'm Yasmim
 
 🚀 Front-End Developer in training
 
