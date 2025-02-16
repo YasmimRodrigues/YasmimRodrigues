@@ -27,3 +27,4 @@ I am an early-career professional focused on web application development, includ
   
 </div>
 
+![snake gif](https://github.com/YasmimRodrigues/YasmimRodrigues/blob/output/github-contribution-grid-snake.svg)
