@@ -19,7 +19,7 @@
 ### ⚙️ GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YasmimRodrigues&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimRodrigues&layout=compact&theme=tokyonight&hide_border=true" width="36.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasmimRodrigues&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="36.5%" />
 </p>
 
 ---
